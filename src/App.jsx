@@ -1,7 +1,7 @@
 import './App.css'
 import Navbar from './Components/Navbar.jsx'
 import { Link } from 'react-scroll'
-import Skilled from './Components/skill.jsx'
+import Skilled from './Components/Skill.jsx'
 import Myportfolio from './Components/myportfolio.jsx'
 function App() {
 
